@@ -16,3 +16,7 @@ def opencv_contour_approx(name):
     cv2.waitKey(0)
     cv2.destroyAllWindows()
 
+"""
+    to test:
+            opencv_contour_approx(path)
+"""
